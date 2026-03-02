@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinopub-online.com/
+Sitemap: https://casinopub-online.com/sitemap.xml
